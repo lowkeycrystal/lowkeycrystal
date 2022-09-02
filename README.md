@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**lowkeycrystal/lowkeycrystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hello! It's me, Amiel!
+### Hello! It's me, Amiel!
 
 - 🔭 I’m currently working on the better version of my self.
 - 🌱 I’m currently learning graphic design and motion graphics
