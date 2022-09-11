@@ -9,8 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I super duper love cats!
 
-
 ```
-$text = str_replace('one', 'an', 'There is one apple.')
-print $text;
+I'm a slow learner when it comes to coding. Patience please.
 ```
