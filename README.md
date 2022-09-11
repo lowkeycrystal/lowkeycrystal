@@ -1,4 +1,5 @@
 ### Hello! It's me, Amiel!
+>4th year student at West Visayas State University
 
 - 🔭 I’m currently working on the better version of my self.
 - 🌱 I’m currently learning graphic design and motion graphics
@@ -8,3 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I super duper love cats!
 
+
+$text = str_replace('one', 'an', 'There is one apple.')
+print $text;
