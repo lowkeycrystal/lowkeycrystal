@@ -10,5 +10,7 @@
 - ⚡ Fun fact: I super duper love cats!
 
 
+```
 $text = str_replace('one', 'an', 'There is one apple.')
 print $text;
+```
