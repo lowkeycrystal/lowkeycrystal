@@ -2,9 +2,9 @@
 >4th year student at West Visayas State University
 
 - 🔭 I’m currently working on the better version of my self.
-- 🌱 I’m currently learning graphic design and motion graphics
+- 🌱 I’m currently learning UI/UX and Flutter Development
 - 💬 Ask me about anything, I'm willing to exchange ideas!
-- 📫 How to reach me: drimme24@gmail.com
+- 📫 How to reach me: amielnavigar@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I super duper love cats!
 
